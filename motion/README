@@ -1,0 +1,4 @@
+
+compile by:
+g++     motion.cpp  base64.cpp -o motion -lboost_system
+
